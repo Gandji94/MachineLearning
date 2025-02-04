@@ -1,2 +1,9 @@
 Link to the project & model:
+#Folder
 https://drive.google.com/drive/folders/10w7uBrKAf3gQ7HNrTK8kT1mnZzT9gtrk?usp=sharing
+
+#Notebook
+https://drive.google.com/file/d/18IKTvXtIJuOiWDWo5Pr_y2MxTBIRIv7K/view?usp=sharing
+
+#Final Model
+https://drive.google.com/file/d/1FRobv7OORwg3KSGqxNoDDNomSYyZHMde/view?usp=sharing
