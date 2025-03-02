@@ -8,5 +8,6 @@ Source of the data sets:
 Start Ups=> https://www.kaggle.com/code/nitinchoudhary012/startup-business-profit-prediction
 
 Car Price=> https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
+Updated: 28.01.2025
 
 Bundesliga outcome=> Links are in the Jupyter notebook
